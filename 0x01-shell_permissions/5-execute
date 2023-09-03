@@ -1,2 +1,2 @@
-#!/bin/bash
-chown u+x hello
+#!/bin/basih
+chmod u+x hello
